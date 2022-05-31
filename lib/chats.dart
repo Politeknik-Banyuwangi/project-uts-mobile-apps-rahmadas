@@ -62,7 +62,7 @@ class Chats extends StatelessWidget {
                 children: [
                   Icon(Icons.done_all, color: Colors.grey),
                   Text(
-                    "congrest for chmapions realmadrid and you, fery-fery spectakular",
+                    "congrest for chmapions realmadrid and u",
                     style: TextStyle(
                       fontSize: 13,
                     ),
@@ -101,7 +101,7 @@ class Chats extends StatelessWidget {
             // keempat
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://fajar.co.id/wp-content/uploads/2022/05/gavi-getty.jpg"),
+                backgroundImage: NetworkImage("https://asset.kompas.com/crops/fRn4YxJrkb_-50zcZ4SHQ0NU6yA=/235x0:768x355/750x500/data/photo/2021/12/19/61be59cc33633.jpg"),
                 radius: 25,
               ),
               trailing: Text("10:10"),
@@ -128,7 +128,7 @@ class Chats extends StatelessWidget {
             // kelima
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0iL9VAm7mQ0qjgNQiiKChWdKjRiy8_SGNw&usqp=CAU"),
+                backgroundImage: NetworkImage("https://asset.kompas.com/crops/VyMK31_HkCtKpqBYi2QZ8jeTFU4=/181x0:892x474/750x500/data/photo/2021/08/16/61199d24b23f0.jpg"),
                 radius: 25,
               ),
               trailing: Text("06:33"),
