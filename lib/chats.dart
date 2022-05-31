@@ -62,7 +62,7 @@ class Chats extends StatelessWidget {
                 children: [
                   Icon(Icons.done_all, color: Colors.grey),
                   Text(
-                    "congrest for chmapions realmadrid and u",
+                    "congrest for chmapions",
                     style: TextStyle(
                       fontSize: 13,
                     ),
