@@ -21,7 +21,7 @@ class Calls extends StatelessWidget {
 
             // Masukkan Coding disini jangan rubah lainnya
             ListTile(
-              leading: Icon(Icons.phone),
+              trailing: Icon(Icons.phone),
             )
           ],
         ),
