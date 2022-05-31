@@ -23,7 +23,6 @@ class Calls extends StatelessWidget {
             // Pertama
             Divider(
               color: Colors.black,
-              indent: 40,
             ),
             ListTile(
               leading: CircleAvatar(
