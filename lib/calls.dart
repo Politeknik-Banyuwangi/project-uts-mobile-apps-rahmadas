@@ -21,6 +21,7 @@ class Calls extends StatelessWidget {
 
             // Masukkan Coding disini jangan rubah lainnya
             ListTile(
+              leading: Image.network('https://akcdn.detik.net.id/community/media/visual/2022/03/10/lionel-messi_169.jpeg?w=700&q=90'),
               trailing: Icon(Icons.phone),
             )
           ],
