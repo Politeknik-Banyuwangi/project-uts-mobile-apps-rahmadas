@@ -28,7 +28,7 @@ class Calls extends StatelessWidget {
               trailing: Icon(
                 Icons.phone,
                 color: Colors.green,
-                size: 24.0,
+                size: 35.0,
               ),
               title: Text('Messi', style: TextStyle(fontWeight: FontWeight.bold)),
               subtitle: Text('082 999 999 999', style: TextStyle(fontWeight: FontWeight.bold)),
