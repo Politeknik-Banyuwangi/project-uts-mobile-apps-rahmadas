@@ -572,7 +572,7 @@ class Chats extends StatelessWidget {
               ),
               subtitle: Row(
                 children: [
-                  Icon(Icons.done_all, color: Colors.grey),
+                  Icon(Icons.done_all, color: Colors.blue),
                   Text(
                     "jangan malem malem",
                     style: TextStyle(
