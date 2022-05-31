@@ -33,7 +33,7 @@ class Chats extends StatelessWidget {
               ),
               subtitle: Row(
                 children: [
-                  Icon(Icons.done_all, color: Colors.grey),
+                  Icon(Icons.done_all, color: Colors.blue),
                   Text(
                     "wellcome in indonesia kang ozil ",
                     style: TextStyle(
@@ -114,7 +114,7 @@ class Chats extends StatelessWidget {
               ),
               subtitle: Row(
                 children: [
-                  Icon(Icons.done_all, color: Colors.grey),
+                  Icon(Icons.done_all, color: Colors.blue),
                   Text(
                     "you hansome men",
                     style: TextStyle(
@@ -168,7 +168,7 @@ class Chats extends StatelessWidget {
               ),
               subtitle: Row(
                 children: [
-                  Icon(Icons.done_all, color: Colors.grey),
+                  Icon(Icons.done, color: Colors.grey),
                   Text(
                     "lest go mabar Mobile Legends",
                     style: TextStyle(
@@ -195,7 +195,7 @@ class Chats extends StatelessWidget {
               ),
               subtitle: Row(
                 children: [
-                  Icon(Icons.done_all, color: Colors.grey),
+                  Icon(Icons.done, color: Colors.grey),
                   Text(
                     "rahmad how are you",
                     style: TextStyle(
@@ -249,7 +249,7 @@ class Chats extends StatelessWidget {
               ),
               subtitle: Row(
                 children: [
-                  Icon(Icons.done_all, color: Colors.grey),
+                  Icon(Icons.done, color: Colors.grey),
                   Text(
                     "how are tou rahmad",
                     style: TextStyle(
